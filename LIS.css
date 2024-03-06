@@ -16,10 +16,11 @@
 li
 {display: inline;
 padding: 5px;
+font-weight: bold;
 }
 
   .wellnessBody {
-            font-family: Arial, sans-serif;
+            font-family: Georgia, serif;
             background-color: #f0f0f0;
             margin: 2rem;
            padding: auto;
